@@ -83,4 +83,9 @@ body {
   background: #f300f3;
   min-height: 150px;
 }
+.footer {
+  flex-shrink: 0;
+  background: #f300f3;
+  min-height: 150px;
+}
 
