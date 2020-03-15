@@ -11,7 +11,7 @@ body, html {
 height: 100%;
 }
 body {
-  background: url(/img/orig.jpg);
+  background: url(img/orig.jpg);
   background-size: cover;
 }
 .wrapper {
